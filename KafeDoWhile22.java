@@ -9,7 +9,7 @@ public class KafeDoWhile22 {
         int hargaKopi = 12000, totalHarga;
         int hargaTeh = 7000;
         int hargaRoti = 20000;
-
+        
         do {
             System.out.print("Masukkan nama pelanggan (ketik 'batal' untuk keluar) : ");
             namaPelanggan = nad.nextLine();

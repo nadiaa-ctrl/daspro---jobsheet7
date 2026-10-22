@@ -21,7 +21,7 @@ public class SiakadFor22 {
             }
             if (nilai >= 60) {
                 lulus++;
-            }else{
+            } else {
                 tidakLulus++;
             }
         }
